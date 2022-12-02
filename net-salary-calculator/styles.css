@@ -1,0 +1,23 @@
+body {
+  background:#B4B765;
+  font-size: 14px;
+}
+.app-form-button {
+  background-color: #515402; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.main-body{
+  margin-top: 15%;
+  text-align: center;
+}
+.results{
+  text-align: center;
+  font-size: 16px;
+}
